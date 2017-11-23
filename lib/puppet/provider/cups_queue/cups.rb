@@ -8,7 +8,7 @@ Puppet::Type.type(:cups_queue).provide(:cups) do
   commands(cupsdisable: 'cupsdisable')
   commands(cupsenable: 'cupsenable')
   commands(cupsreject: 'cupsreject')
-  commands(ipptool: 'ipptool') # Used in PuppetX::Cups::Ipp module. Declared here for Puppet's provider suitability mechanism
+  # commands(ipptool: 'ipptool') # Used in PuppetX::Cups::Ipp module. Declared here for Puppet's provider suitability mechanism
   commands(lpadmin: 'lpadmin')
   commands(lpoptions: 'lpoptions')
 
