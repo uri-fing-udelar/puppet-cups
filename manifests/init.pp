@@ -57,6 +57,13 @@ class cups (
   Boolean                        $service_manage         = true,
   Variant[String, Array[String]] $service_names          = 'cups',
   Optional[Boolean]              $web_interface          = undef,
+  Variant[Hash]                  $locations              = undef,
+  Optional[String]               $server_name            = undef,
+  Optional[String]               $server_alias           = undef,
+  Optional[String]               $server_admin           = undef,
+  Optional[String]               $server_cert            = undef,
+  Optional[String]               $server_key             = undef,
+  Optional[String]               $ssl_port               = undef,
 ) inherits cups::params {
 
   contain cups::packages
