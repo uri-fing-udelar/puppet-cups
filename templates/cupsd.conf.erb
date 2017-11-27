@@ -19,6 +19,9 @@ DefaultAuthType Basic
 <% unless @server_admin.nil? -%>
 ServerAdmin <%= @server_admin %>
 <% end -%>
+<% unless @system_group.nil? -%>
+SystemGroup <%= @system_group %>
+<% end -%>
 <% unless @server_cert.nil? -%>
 ServerCertificate <%= @server_cert %>
 <% end -%>
