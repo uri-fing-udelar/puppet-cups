@@ -23,6 +23,7 @@ group :development do
   gem 'guard-rubocop', '~> 1.3'
   gem 'mdl', '~> 0.3'
   gem 'metadata-json-lint', '~> 2.0'
+  gem 'overcommit', '~> 0.41'
   gem 'parallel_tests', '~> 2.13'
   gem 'puppetlabs_spec_helper', '~> 2.0'
   gem 'rake', '~> 12.2'
@@ -54,6 +55,6 @@ group :release do
 end
 
 group :metatools do
-  gem 'github-linguist', '~> 5.0'
+  gem 'github-linguist', '~> 6.0'
   gem 'travis', '~> 1.8'
 end

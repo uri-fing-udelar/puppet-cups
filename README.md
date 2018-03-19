@@ -5,14 +5,14 @@
 [![Code Climate](https://codeclimate.com/github/leoarnold/puppet-cups/badges/gpa.svg)](https://codeclimate.com/github/leoarnold/puppet-cups)
 [![Code Quality](https://img.shields.io/codacy/0404c3f7b7b345859d5eb9d2cbeecc39.svg)](https://www.codacy.com/app/leoarnold/puppet-cups)
 [![Coverage](https://codeclimate.com/github/leoarnold/puppet-cups/badges/coverage.svg)](https://codeclimate.com/github/leoarnold/puppet-cups/coverage)
-[![Dependencies](https://img.shields.io/gemnasium/leoarnold/puppet-cups.svg)](https://gemnasium.com/leoarnold/puppet-cups)
+[![Depfu](https://badges.depfu.com/badges/b664de4d78caad461da4a66da7c9efeb/overview.svg)](https://depfu.com/github/leoarnold/puppet-cups)
 <!-- release:include -->
 
 [![Puppet Forge Version](https://img.shields.io/puppetforge/v/leoarnold/cups.svg)](https://forge.puppet.com/leoarnold/cups)
 [![Puppet Forge Endorsement](http://img.shields.io/puppetforge/e/leoarnold/cups.svg)](https://forge.puppet.com/leoarnold/cups)
 [![Puppet Forge Downloads](http://img.shields.io/puppetforge/dt/leoarnold/cups.svg)](https://forge.puppet.com/leoarnold/cups)
 [![Puppet Forge Score](http://img.shields.io/puppetforge/f/leoarnold/cups.svg)](https://forge.puppet.com/leoarnold/cups)
-[![Yard Docs](https://img.shields.io/badge/yard-docs-blue.svg)](https://leoarnold.github.io/puppet-cups)
+[![Documentation](http://inch-ci.org/github/leoarnold/puppet-cups.svg?branch=master)](https://leoarnold.github.io/puppet-cups)
 [![MIT License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 [![Gitter](https://badges.gitter.im/leoarnold/puppet-cups.svg)](https://gitter.im/leoarnold/puppet-cups)
 
